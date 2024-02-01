@@ -4,11 +4,10 @@
 
 # TesloAPI
 
+Proyecto de practica de herramientas nest y bases de datos relacionales.
+E-commerce
+
 1. Levantar base de datos
 ```
 docker-compose up -d
 ```
-
-'''
-hola
-'''
