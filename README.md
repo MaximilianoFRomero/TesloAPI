@@ -7,6 +7,8 @@
 Proyecto de practica de herramientas nest y bases de datos relacionales.
 E-commerce
 
+```En desarrollo```
+
 1. Clonar repositorio
 
 2. ```npm install```
