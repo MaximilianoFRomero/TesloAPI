@@ -4,11 +4,19 @@
 
 # TesloAPI
 
-1. Levantar base de datos
+Proyecto de practica de herramientas nest y bases de datos relacionales.
+E-commerce
+
+1. Clonar repositorio
+
+2. ```npm install```
+
+3. Clonar archivo ```.env.template``` y renombrarlo a ```.env```
+
+4. Cambiar las variables de entorno
+
+5. Levantar base de datos
 ```
 docker-compose up -d
 ```
-
-'''
-hola
-'''
+6. Levantar: ```npm run start:dev```
